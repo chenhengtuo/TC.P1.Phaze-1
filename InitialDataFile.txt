@@ -1,0 +1,10 @@
+First name | Last name | Phone number id | Lives in New York?
+Emily | Johnson | 5551234567 | false
+David | Smith | 5552345678 | false
+Sophia | Rodriguez | 5553456789 | false
+Ethan | Brown | 5554567890 | false
+Olivia | Martinez | 5555678901 | false
+Benjamin | Harris | 5556789012 | true
+Emma | Anderson | 5557890123 | false
+Michael | Davis | 5558901234 | true
+Steve | Smith | 3479233232 | false
